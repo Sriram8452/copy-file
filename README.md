@@ -26,7 +26,7 @@ with open('sample.txt','r') as file1:
  file2.write(line)
  ```
 ### OUTPUT:
-![model](1.png)]
+![model](1.png)
 
 
 ## RESULT:
